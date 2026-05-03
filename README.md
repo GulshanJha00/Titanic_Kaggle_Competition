@@ -25,22 +25,20 @@ A machine learning project using the Titanic dataset from [Kaggle](https://www.k
 3. Model Training
 4. Prediction Generation
 
-## 📈 Model
+## 📈 Model Accuracy
 
+| Model               | Accuracy |
+| ------------------- | -------- |
+| Logistic Regression | 80%      |
+| Decision Tree       | 78%      |
+| Random Forest       | 84%      |
+| SVM                 | 82%      |
 
-📈 Model Accuracy
-Model	Accuracy
-Logistic Regression	80%
-Decision Tree	78%
-Random Forest	84%
-SVM	82%
-
-Random Forest performed the best for this project.
-
+> Random Forest performed the best for this project.
 
 ## ▶️ Run Project
 
-```bash id="8sy8oz"
+```bash id="j4p9a1"
 git clone https://github.com/your-username/titanic-project.git
 
 cd titanic-project
@@ -52,7 +50,7 @@ pip install -r requirements.txt
 
 Download dataset from:
 
-[Titanic Dataset](https://www.kaggle.com/competitions/titanic/data?utm_source=chatgpt.com)
+[Titanic Dataset](https://www.kaggle.com/competitions/titanic/data?)
 
 ## ⭐ Author
 
